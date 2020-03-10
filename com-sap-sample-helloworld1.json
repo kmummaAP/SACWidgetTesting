@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-helloworld1",
-			"url": "https://raw.githubusercontent.com/kmummaAP/WidgetTesting/master/webcomponent.js?token=AOZIZ2CUIHOBN7LZ6V474U26M7336",
+			"url": "https://raw.githubusercontent.com/kmummaAP/SACWidgetTesting/master/webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
