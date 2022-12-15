@@ -1,0 +1,23 @@
+{
+	"name": "Excel_1",
+	"description": "Create custom upload widget",
+	"eula": "",
+	"vendor": "",
+	"license": "",
+	"newInstancePrefix": "Excel_1",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "excel-1-upload-widget",
+			"url": "https://raw.githubusercontent.com/kmummaAP/SACWidgetTesting/blob/master/uploadwidget.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		}
+    ],
+	"properties": {
+	},
+	"methods": {
+	},
+	"events": {
+	}
+}
