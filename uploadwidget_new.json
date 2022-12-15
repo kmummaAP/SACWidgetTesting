@@ -4,7 +4,9 @@
 	"eula": "",
 	"vendor": "",
 	"license": "",
+	"id": "Excel_1",
 	"newInstancePrefix": "Excel_1",
+	"version": "0.0.1",
 	"webcomponents": [
 		{
 			"kind": "main",
